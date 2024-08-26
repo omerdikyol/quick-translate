@@ -1,0 +1,31 @@
+{
+  "name": "quicktranslateapp",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "^2.7.7",
+    "@react-native-voice/voice": "^3.2.4",
+    "axios": "^1.7.5",
+    "expo": "~51.0.28",
+    "expo-permissions": "^14.4.0",
+    "expo-speech": "^12.0.2",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-uuid": "^2.0.2",
+    "react-native-voice": "^0.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.45",
+    "typescript": "^5.1.3"
+  },
+  "private": true
+}
