@@ -113,5 +113,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to [Hugging Face](https://huggingface.co/) for providing powerful NLP models.
+- Thanks to [Hugging Face](https://huggingface.co/) for providing powerful NLP models, especially Helsinki-NLP for their comprehensive machine translation models.
 - Thanks to the React Native and FastAPI communities for their excellent tools and documentation.
